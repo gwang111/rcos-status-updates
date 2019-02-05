@@ -8,7 +8,7 @@
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan on building a barebones UI for our application and hopefully build off of that in future > weeks to come
+> After my accomplishments from last week, I plan on building a barebones UI for our application and hopefully build off of that in future weeks to come
 
 ## Anything Blocking?
 
