@@ -8,7 +8,7 @@
 
 > In this section, you can write about what you have planned for next week.
 
-> Close to finishing the swip function and I should probabably be done with it by this week.
+> Close to finishing the swipe function and I should probabably be done with it by this week.
 
 ## Anything Blocking?
 
