@@ -14,7 +14,7 @@
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> Again, not many references to how to do this type of functionality so doing some research on it. A lot of research required
+> Again, not many references to how to do this type of functionality so doing some research on it.
 
 ## Notes
 
